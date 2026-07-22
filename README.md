@@ -50,6 +50,7 @@ Each README.md file includes:
 - Dates
 - Daily notes
 - Summary of course at the end
+- Learning objectives
 
 ## Goals
 
