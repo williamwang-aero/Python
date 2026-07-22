@@ -1,5 +1,7 @@
 # Lecture Notes
 
+LI: To be able to use variables and basic python to code
+
 22/07/2026
 
 Recommended software: VS CODE
