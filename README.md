@@ -1,2 +1,19 @@
 # Python-Learning
-Welcome to my Python-learning file! The file will contain many of my python projects and a learning file where I will put all my notes and new things in. All of this expresses my love towards aerospace and coding.
+# 🐍 Python Learning Portfolio
+
+## About
+
+This repository contains my Python learning journey, including practice exercises and small projects as I build my programming skills.
+
+## Repository Structure
+
+- Tests/
+- Learning/
+- Mini Projects/
+
+## Goals
+
+- Learn Python fundamentals
+- Build useful projects
+- Improve my problem-solving skills
+- Prepare for larger engineering projects
