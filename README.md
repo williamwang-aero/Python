@@ -10,13 +10,46 @@ This repository documents my Python learning journey as I build programming skil
 - Python-Minor-Projects/Project/Code, Photos, README.md
 - Python-Tests/Tests/Code, Photos, README.md
 
-## Each Project Includes
+## Projects
+
+Each project indcludes:
+
+- README.md file
+- Source Code
+- Photos if applicable
+
+Each README.md file in projects will include:
 
 - Project objective
-- Source code
-- Personal reflection
+- Overall summary/reflection
+- Daily reflection/summary
 - Lessons learned
 - Ideas for future improvements
+
+## Tests
+
+Each tests includes:
+- README.md file
+- Test code
+- Photos if applicable
+
+Each README.md file includes:
+- What this test is about
+- What am I aiming for
+- Overall summary
+- Daily summary
+
+## Learning
+
+Each learning course file includes:
+- README.md file
+- Source code if applicable
+- Photos if applicable
+
+Each README.md file includes:
+- Dates
+- Daily notes
+- Summary of course at the end
 
 ## Goals
 
